@@ -108,8 +108,11 @@ analytics:
 author:
   name             : "Álvaro Vega-Hidalgo"
   avatar           : "/images/avatar.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "Data science and research portfolio.
-Computational Biology | Biophysics | Bioinformatics | Tropical Biology"
+  bio              : "Data science and research portfolio
+
+Computational Biology | Biophysics
+
+Bioinformatics | Tropical Biology"
   location         : "Costa Rica"
   email            :
   links:
