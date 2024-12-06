@@ -15,17 +15,22 @@ My active projects include:
 - Investigating the communicaton system of white-faced capuchin monkeys in Taboga, Costa Rica.
 - Euphonia App: Creating a collaborative mobile application designed to help verify machine learning predictions for acoustic species identification.
 
+<!-- horizontal line below -->
+---
+
 Media Features
 ======
-### [How Artificial Intelligence is Helping Us Decode Animal Languages](https://www.weforum.org/stories/2023/01/how-artificial-intelligence-is-getting-us-closer-to-talking-to-animals)  
+[How Artificial Intelligence is Helping Us Decode Animal Languages](https://www.weforum.org/stories/2023/01/how-artificial-intelligence-is-getting-us-closer-to-talking-to-animals)  
 Spencer Feingold, **World Economic Forum**, January 5, 2023
 
-### [Meet the Bee With a Body That’s Half Male, Half Female](https://www.smithsonianmag.com/smithsonian-institution/meet-bee-body-s-half-male-half-female-180974553/)  
+[Meet the Bee With a Body That’s Half Male, Half Female](https://www.smithsonianmag.com/smithsonian-institution/meet-bee-body-s-half-male-half-female-180974553/)  
 Katherine J. Wu, **Smithsonian Magazine**, April 2, 2020
 
-### [Climate Change and Urban Development Drive Away Birds in Costa Rica](https://www.nacion.com/ciencia/medio-ambiente/cambio-climatico-y-desarrollo-urbano-ahuyentan-las/CHMZHWLVBFHLRCRPMDNLKM6RQE/story/)  
+[Climate Change and Urban Development Drive Away Birds in Costa Rica](https://www.nacion.com/ciencia/medio-ambiente/cambio-climatico-y-desarrollo-urbano-ahuyentan-las/CHMZHWLVBFHLRCRPMDNLKM6RQE/story/)  
 Irene Rodríguez, **La Nación**, October 29, 2023  
 Featured on the cover of Costa Rica’s most-read newspaper. The original title, "Cambio climático y desarrollo urbano ahuyentan las aves de Costa Rica".
+
+---
 
 Peer-Reviewed Publications
 ======
@@ -41,3 +46,9 @@ Vega-Hidalgo, Á., Añino, Y., Krichilsky, E., Smith, A. R., Santos-Murgas, A., 
 Krichilsky, E., Vega-Hidalgo, Á., Hunter, K., Kingwell, C., Ritner, C., Wcislo, W., & Smith, A. (2020). The first gynandromorph of the Neotropical bee Megalopta amoena (Spinola, 1853)(Halictidae) with notes on its circadian rhythm. Journal of Hymenoptera Research, 75, 97.
 
 González, J. P. B., Vega-Hidalgo, A., & Monge-Nájera, J. (2019). Feeding behavior of Costa Rican velvet worms: food hiding, parental feeding investment and ontogenetic diet shift (Onychophora: Peripatidae). UNED Research Journal, 11(2), 85-88.
+
+---
+
+<blockquote><p>If you truly love nature, you will find beauty everywhere.</p></blockquote>
+<p style="text-align: center;"><i>— Vincent Van Gogh</i></p>
+<p style="text-align: center;"><i>30 April 1874</i></p>
