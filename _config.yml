@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : ""
+title                    : "Álvaro Vega-Hidalgo | PhD Student in Computer Science and Engineering at the University of Michigan"
 title_separator          : "-"
 name                     : &name "Álvaro Vega-Hidalgo"
 description              : &description "personal description"
@@ -22,9 +22,10 @@ repository               : "alvarovegahd"
 author:
   # Biographic information
   avatar           : "IMG_3062.jpg"
-  name             : "Álvaro Vega-Hidalgo"
+  name             : ""
   pronouns         : # example: "she/her"  
-  bio              : "PhD Student - UMich AI Lab"
+  # bio              : "\"In Costa Rica, for example, audio recordings were used recently to evaluate the development and health of reforested areas of the rainforest\". \nWorld Economic Forum"
+  bio              : "PhD Student in Computer Science and Engineering at the University of Michigan"
   location         : "Ann Arbor, MI"
   employer         : "University of Michigan"
   uri              : # URL
