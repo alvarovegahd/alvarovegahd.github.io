@@ -7,13 +7,13 @@ redirect_from:
   - /about.html
 ---
 
-I am a PhD student specializing in computational approaches to studying animal communication and enhancing wildlife conservation through community-centered design. My research is driven by the intrinsic value of wildlife-human coexistence and fundamental questions about the evolution of language. What can we learn from the communicative behaviors of other species? How can technology and computational linguistics deepen our understanding of animal languages and promote a more sustainable coexistence with wildlife? I am advised by Dr. Rada Mihalcea.
+I am a PhD student specializing in computational approaches to studying animal communication and enhancing wildlife conservation through community-centered design. My research is driven by the intrinsic value of wildlife-human coexistence and fundamental questions about the evolution of language. What can we learn from the communicative behaviors of other species? How can technology and computational linguistics deepen our understanding of animal languages and promote a more sustainable coexistence with wildlife? I have the privilege of being advised by Dr. Rada Mihalcea.
 
 My active projects include:
 
 - Exploring Animal Computational Linguistics: Identifying challenges and opportunities in this emerging interdisciplinary field.
-- Investigating Capuchin Monkey Communication: Studying the communication systems of white-faced capuchin monkeys in Costa Rica to uncover patterns and behaviors.
-- Euphonia App: Developing a collaborative mobile application for reviewing and verifying machine learning predictions from bioacoustics AI models.
+- Investigating the communicaton system of white-faced capuchin monkeys in Taboga, Costa Rica.
+- Euphonia App: Creating a collaborative mobile application designed to help verify machine learning predictions for acoustic species identification.
 
 Media Features
 ======
