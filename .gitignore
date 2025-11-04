@@ -1,3 +1,21 @@
+# Jekyll build artifacts
 _site/
 .sass-cache/
-*.scssc
+.jekyll-cache/
+.jekyll-metadata
+
+# Ruby / Bundler
+vendor/
+.bundle/
+Gemfile.lock
+
+# Node / npm
+node_modules/
+package-lock.json
+
+# Temporary or local files
+*.log
+*.tmp
+*.swp
+.DS_Store
+Thumbs.db
